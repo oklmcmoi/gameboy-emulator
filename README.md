@@ -1,7 +1,7 @@
 JavaScript GameBoy Color Emulator
 =================================
 
-**Copyright (C) 2010 - 2016 Grant Galitz**
+**Copyright (C) 2010 - 2024 XXx**
 
 A GameBoy Color emulator that utilizes HTML5 canvas and JavaScript audio APIs to provide a full emulation of the console.
 
